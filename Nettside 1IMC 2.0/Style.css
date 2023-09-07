@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,300&family=Qwitcher+Grypen&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+
+html, body {
+    width: 100%;
+    margin: 0 auto;
+    height: 0 auto;
+    background-color: rgb(247, 246, 244);
+    font-family: 'Josefin Sans', serif;
+}
+
+img {
+    width: 100%;
+    height: 0 auto;
+
+}
+
+header{
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgb(10, 81, 9);
+    margin-top: 1%;
+    margin-bottom: 3%; 
+}
+
+h1{
+    text-align:center;
+    font-size: 4rem;
+    color: white;
+}
+
+h2{ 
+    text-align:center;
+    font-size: 3rem;
+    color:white;
+}
+
+section{
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgb(78, 120, 76);
+    margin-bottom: 1rem;
+}
+h2{
+    text-align: center;
+    font-size: 3rem;
+    color:aliceblue;
+}
+p{
+    font-size: 1.5rem;
+    color:white;
+}
+
+a{
+    color:white;
+    text-decoration: none;
+    font-size:2em;
+}
+
+a:hover{
+    color:hotpink; 
+}
+
+a:visited{
+    color:aquamarine;
+}
